@@ -2,6 +2,12 @@
 
 <strong>DISCLAIMER: </strong>Due to a Non-Disclosure Agreement (NDA) I have signed, I am unable to display or share the application code. Thank you for your understanding.
 
+<h2>Description</h2>
+<p>
+  This app allows users to scan QR codes quickly and efficiently. By using the camera on a mobile device, the app can detect and interpret QR codes, providing users with the possibility to send encoded data from the QR code to a backend. The app features an intuitive interface, with easy-to-use functionality for both beginners and advanced users. It also ensures security and privacy by not storing or sharing scanned information without user consent.
+</p>
+
+
 ## Features
 
 - **Login Screen**: Allows truck drivers to log in to the app with their credentials for secure access.
